@@ -1,0 +1,98 @@
+{
+  "people": [
+    {
+      "name": "cole"
+    },
+    {
+      "name": "brice"
+    },
+    {
+      "name": "ross"
+    },
+    {
+      "name": "josue"
+    },
+    {
+      "name": "jaydan"
+    },
+    {
+      "name": "bruno"
+    },
+    {
+      "name": "carl"
+    },
+    {
+      "name": "myla"
+    },
+    {
+      "name": "lainey"
+    },
+    {
+      "name": "adyson"
+    },
+    {
+      "name": "aryanna"
+    },
+    {
+      "name": "julie"
+    }
+  ],
+  "planets": [
+    {
+      "name": "konvautov"
+    },
+    {
+      "name": "cubapus"
+    },
+    {
+      "name": "rizagua"
+    },
+    {
+      "name": "inia"
+    },
+    {
+      "name": "theinus"
+    },
+    {
+      "name": "lagotis"
+    },
+    {
+      "name": "gnohacury"
+    },
+    {
+      "name": "garth 2AQ"
+    },
+    {
+      "name": "noth JE"
+    }
+  ],
+  "starships": [
+    {
+      "name": "The Pytchley"
+    },
+    {
+      "name": "Kingham"
+    },
+    {
+      "name": "Ascot"
+    },
+    {
+      "name": "The Pigeon"
+    },
+    {
+      "name": "The Blandford"
+    },
+    {
+      "name": "Cephalus"
+    },
+    {
+      "name": "Constant Warwick"
+    },
+    {
+      "name": "Enterprise"
+    },
+    {
+      "name": "The Wrecks"
+    }
+  ]
+}
